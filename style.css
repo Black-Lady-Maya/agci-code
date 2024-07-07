@@ -1,0 +1,25 @@
+#global{
+    border: 1px;
+    background-color: rgb(239, 240, 239);
+    height: 1000px;
+}
+
+#header{
+    border: 1px;
+    background: rgb(2, 59, 151);
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#contenu{
+    border: 1px;
+    background: rgb(235, 235, 229);
+    height: 900px;
+    margin: 5px;
+    padding: 5px;
+}
+#ma{
+    color: white;
+}
+
